@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Altran Technologies as Senior Devops Engineer
 - :bookmark: Author of Devops blog [devopspilot.com](https://devopspilot.com)
 - 🌱 I’m currently learning Docker, Kubernetes and Helm chart
