@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Capgemini as Senior Devops Engineer
+- 🔭 I’m currently working at SGX as Senior Devops Engineer
 - :bookmark: Author of Devops blog [devopspilot.com](https://devopspilot.com)
 - 🌱 I’m currently working on Docker, Kubernetes, Helm chart, ansible and Terraform
 - 💬 Ask me about Devops Technologies
